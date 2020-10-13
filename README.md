@@ -8,7 +8,7 @@
 
 Shihab Chowdhury | NYC
 
-Welcome to my profile. I'm a 17 year old full stack developer mainly focused on creating backend solutions for companies. I'm currently working at [Constantly Create Shop](http://constantlycreateshop.com/) creating tools to help upscale their operations. I'm also available for short-term freelance work so feel free to reach out to me on one of the links below. 
+Welcome to my profile. I'm a 17 year old full stack developer mainly focused on creating backend solutions for companies. Open to freelance Backend / Frontend development. I primarily work in JS and TS, but am comfortable with Golang and Python.
 
 🐦 [Twitter](https://twitter.com/aiomonitors) <br>
 🌐 [Website](https://shihab.dev) <br>
