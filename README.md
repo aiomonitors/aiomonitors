@@ -6,7 +6,7 @@
 **aiomonitors/aiomonitors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Shihab Chowdhury | NYC | Software Developer @ [LexAIO](https://lexaio.io)
+Shihab Chowdhury | NYC | Software Developer @ [PrismAIO](https://prismaio.com/)
 
 I'm a 18 year old full stack developer mainly focused on creating backend solutions for companies. I primarily work in JS and TS, but am comfortable with Golang and Python.
 
