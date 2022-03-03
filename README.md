@@ -8,7 +8,7 @@
 
 Shihab Chowdhury | NYC | Software Developer @ [PrismAIO](https://prismaio.com/)
 
-I'm a 18 year old full stack developer mainly focused on creating backend solutions for companies. I primarily work in JS and TS, but am comfortable with Golang and Python.
+I'm a full stack developer focused on creating scalable user friendly applications for companies. I primarily work in JS and TS, but am comfortable with Golang and Python.
 
 🐦 [Twitter](https://twitter.com/aiomonitors) <br>
 🌐 [Website](https://shihab.dev) <br>
