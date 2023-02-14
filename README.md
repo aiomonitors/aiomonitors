@@ -6,7 +6,7 @@
 **aiomonitors/aiomonitors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Shihab Chowdhury | NYC | Software Developer @ [PrismAIO](https://prismaio.com/)
+Shihab Chowdhury | NYC | Software Developer @ [Prudential Financial](https://prudential.com/)
 
 I'm a full stack developer focused on creating scalable user friendly applications for companies. I primarily work in JS and TS, but am comfortable with Golang and Python.
 
