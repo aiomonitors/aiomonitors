@@ -1,4 +1,3 @@
-![](https://i.imgur.com/4M7IWwP.gif)
 
 ### Hey!
 
